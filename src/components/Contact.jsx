@@ -8,7 +8,6 @@ export default function Contact() {
         
         <div className="w-full lg:w-1/2 relative">
           <div className="rounded-2xl overflow-hidden shadow-2xl">
-            {/* grayscale hover:grayscale-0 transition-all duration-700 */}
             <img 
               src="./mestre-obra-contact.png" 
               alt="Profissional da Prémol Gesso em ação" 
