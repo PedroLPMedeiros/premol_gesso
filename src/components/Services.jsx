@@ -5,22 +5,22 @@ const listServices = [
   {
     title: "Construção do zero",
     description: "Execução completa da sua obra, do alicerce ao telhado, com foco em segurança.",
-    img: "/servico1.png"
+    img: "servico1.png"
   },
   {
     title: "Pintura",
     description: "Acabamento profissional com técnicas modernas de pintura interna e externa.",
-    img: "/servico2.png"
+    img: "servico2.png"
   },
   {
     title: "Aplicação de Gesso",
     description: "Forros, sancas e paredes em drywall com o padrão de sofisticação Prémol.",
-    img: "/servico3.png"
+    img: "servico3.png"
   }, 
   {
     title: "Entrega de materiais",
     description: "Fornecimento de materiais de construção de alta qualidade, entregues diretamente no seu canteiro de obras.",
-    img: "/servico4.png"
+    img: "servico4.png"
   }
 ];
 
