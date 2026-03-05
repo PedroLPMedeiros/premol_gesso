@@ -5,7 +5,7 @@ export default function Hero() {
     <section id='inicio' className="relative h-[60vh] w-full flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0">
         <img 
-          src="imagem-hero.png" 
+          src="./imagem-hero.png" 
           alt="Obra da Prémol Gesso" 
           className="w-full h-full object-cover object-center"
         />

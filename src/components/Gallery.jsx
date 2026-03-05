@@ -7,9 +7,9 @@ import 'swiper/css/pagination';
 import { Instagram } from 'lucide-react';
 
 const galleryImages = [
-  { id: 1, src: "imagem1.jpeg", alt: "Acabamento em Gesso Sala" },
-  { id: 2, src: "imagem2.jpeg", alt: "Construção Residencial" },
-  { id: 3, src: "imagem3.jpeg", alt: "Pintura Externa" },
+  { id: 1, src: "./imagem1.jpeg", alt: "Acabamento em Gesso Sala" },
+  { id: 2, src: "./imagem2.jpeg", alt: "Construção Residencial" },
+  { id: 3, src: "./imagem3.jpeg", alt: "Pintura Externa" },
 ];
 
 export default function Gallery() {
